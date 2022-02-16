@@ -1,6 +1,5 @@
 'use strict';
 
-//to do list
 
 let itemList = [];
 let inputButton = document.querySelector(".input_button");
